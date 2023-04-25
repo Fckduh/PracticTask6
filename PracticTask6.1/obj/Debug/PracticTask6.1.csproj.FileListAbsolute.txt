@@ -1,0 +1,16 @@
+D:\Repos\PracticTask6.1\bin\Debug\PracticTask6.1.exe.config
+D:\Repos\PracticTask6.1\bin\Debug\PracticTask6.1.exe
+D:\Repos\PracticTask6.1\bin\Debug\PracticTask6.1.pdb
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.csproj.AssemblyReference.cache
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.csproj.SuggestedBindingRedirects.cache
+D:\Repos\PracticTask6.1\obj\Debug\MainWindow.g.cs
+D:\Repos\PracticTask6.1\obj\Debug\App.g.cs
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1_MarkupCompile.cache
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1_MarkupCompile.lref
+D:\Repos\PracticTask6.1\obj\Debug\MainWindow.baml
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.g.resources
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6._1.Properties.Resources.resources
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.csproj.GenerateResource.cache
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.csproj.CoreCompileInputs.cache
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.exe
+D:\Repos\PracticTask6.1\obj\Debug\PracticTask6.1.pdb
